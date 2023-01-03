@@ -23,13 +23,13 @@ Libraries providing functionality to youru application
 
 A selection of tools helping with development
 
-- [Eslint]()
+- [Eslint](https://eslint.org/docs/latest)
   For linting
-- [Prettier]()
+- [Prettier](https://prettier.io/docs/en/index.html)
   For code formatting
-- [Jest]()
+- [Jest](https://jestjs.io/docs/getting-started)
   For testing
-- [Vite]()
+- [Vite](https://vitejs.dev/guide/)
   For building
-- [Node]()
-  For extended development scripting & configs
+- [Node](https://nodejs.org/en/docs/)
+  For extended scripting
