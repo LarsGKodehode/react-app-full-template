@@ -10,6 +10,8 @@
   For routing
 - [React Query](https://react-query-v3.tanstack.com/overview)
   For API fetching and mutation
+- [React Icons](https://react-icons.github.io/react-icons/)
+  For API all our SVG Icons
 
 ### Tooling
 
