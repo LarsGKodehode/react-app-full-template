@@ -1,6 +1,12 @@
+# Full React App (Work in Progress)
+
+This is a template with all the nice things you might want for a full (not fullstack) React application.
+
 ## Libraries used
 
 ### Application Libraries
+
+Libraries providing functionality to youru application
 
 - [Tailwindcss](https://tailwindcss.com/docs/installation)
   For styling
@@ -14,6 +20,8 @@
   For API all our SVG Icons
 
 ### Tooling
+
+A selection of tools helping with development
 
 - [Eslint]()
   For linting
